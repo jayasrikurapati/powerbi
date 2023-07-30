@@ -21,6 +21,7 @@ Integrate data from various sources into a centralized data model for streamline
 ASSIGNMENT-2
 
 Survey on Datasets Using POWER BI:
+
 Abstract:
 This case study explores the use of the POWER BI concept in conducting a survey on datasets. The aim of the survey was to gain insights into the current practices, challenges, and preferences of data professionals when working with datasets. The study employed a structured questionnaire, which was distributed to a diverse group of participants. The collected data was then analyzed using POWER BI, a powerful business intelligence tool. This case study outlines the survey methodology, data collection process, analysis techniques, and key findings obtained from the survey
 
