@@ -57,3 +57,9 @@ Abstract:
 
 In this project, we will explore how to utilize Power BI, a powerful data visualization and business intelligence tool, to detect anomalies in credit card transactions. Anomalies in credit card transactions can indicate fraudulent activity, and by leveraging Power BI's features, we can effectively analyze large datasets and identify suspicious patterns. This project aims to provide a comprehensive guide on leveraging Power BI to detect anomalies, enabling businesses and financial institutions to enhance their
 fraud detection capabilities.
+
+CASE STUDY
+
+Analysis of Airport Performance Using POWER BI Abstract:
+
+This case study presents an analysis of airport performance using the powerful data visualization tool, Microsoft Power Bl. The study aims to provide insights into the key performance indicators (KPIs) of an airport, enabling stakeholders to make data- driven decisions for improved operational efficiency and customer satisfaction. The analysis includes various metrics such as passenger traffic, flight punctuality, baggage handling, and revenue analysis. This case study demonstrates the practical application of Power BI in the aviation industry and highlights its potential for driving data analytics and performance optimization.
